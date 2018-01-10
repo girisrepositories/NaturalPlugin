@@ -1,1 +1,0 @@
-##### Natural installation can be achieved by adding the `Natural Plugin Update Site` with `http://rlogiacco.github.com/Natural` as URL
